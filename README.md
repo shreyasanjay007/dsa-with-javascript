@@ -4,3 +4,4 @@
 
 ### Arrays
 - [x] Two Sum
+- [x] Contains Duplicate
